@@ -14,6 +14,21 @@ Modern and composable Building Blocks for full-stack React apps.
 - [Basil UI](https://pizzajs.dev/basil-ui): A modern UI library for React, focused on accessibility and performance, compatible with shadcn registry.
 - [YoloDB](https://github.com/pizzajsdev/yolodb): Zero-config JSON file database with SuperJSON powers - perfect for mocking and prototyping.
 
+## Starter App
+
+Create a new app:
+
+```
+npx create-pizza-app@latest my-pizza-app
+```
+
+Start the app:
+```
+cd my-pizza-app
+pnpm i
+pnpm run dev
+```
+
 ## Contributors
 
 Made by [Javi Aguilar](https://itsjavi.com)
