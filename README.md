@@ -12,6 +12,7 @@ Modern and composable Building Blocks for full-stack React apps.
 
 - [PizzaJS](https://github.com/pizzajsdev/pizzajs): Building blocks for React Router 7+ apps, including i18n utils, a custom hono server, a file-based router inspired by Next.js, and more.
 - [Basil UI](https://pizzajs.dev/basil-ui): A modern UI library for React, focused on accessibility and performance, compatible with shadcn registry.
+- [DragSwag](https://pizzajs.dev/dragswag): Lightweight and data-driven Drag and Drop library for React, focused on DX and performance.
 - [YoloDB](https://github.com/pizzajsdev/yolodb): Zero-config JSON file database with SuperJSON powers - perfect for mocking and prototyping.
 
 ## Starter App
